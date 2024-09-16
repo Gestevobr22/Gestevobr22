@@ -8,7 +8,7 @@ Sou um desenvolvedor web apaixonado por tecnologia e estou atualmente cursando A
 - **Banco de Dados**: MySQL, PostgreSQL
 - **Ferramentas**: Git, GitHub, VSCode
 
-##Projetos
+## Projetos
 Aqui estão alguns projetos nos quais tenho trabalhado:
 
 ### [Projeto 1] (https://github.com/Gestevobr22/Loja-de-Auto-pecas)
