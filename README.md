@@ -19,4 +19,4 @@ Um projeto de estudos desenvolvido em equipe utilizando tecnologias como HTML, C
 
 ## Contato
 - **Email**: [Gabrielestevobr22@gmail.com](mailto:gabrielestevobr22@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/gabrielestevo22/)
+- **Linkedin**:(https://www.linkedin.com/in/gabrielestevo22/)
