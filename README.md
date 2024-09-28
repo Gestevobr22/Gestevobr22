@@ -11,7 +11,7 @@ Sou um desenvolvedor web apaixonado por tecnologia e estou atualmente cursando A
 ## Projetos
 Aqui estão alguns projetos nos quais tenho trabalhado:
 
-### [Projeto 1] (https://github.com/Gestevobr22/Loja-de-Auto-pecas)
+### [Projeto 1] (https://github.com/Gestevobr22/Projeto-Loja_autopecas)
 Este projeto foi desenvolvido com o objetivo de estudar e aprimorar minhas habilidades em HTML e CSS, com o foco em criar um sistema web eficiente para uma loja de autopeças.
 
 ### [Projeto 2]](https://github.com/Gestevobr22/Projeto-JKG)
