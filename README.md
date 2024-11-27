@@ -14,9 +14,6 @@ Aqui estão alguns projetos nos quais tenho trabalhado:
 ### [Projeto 1] (https://github.com/Gestevobr22/Projeto-Loja_autopecas)
 Este projeto foi desenvolvido com o objetivo de estudar e aprimorar minhas habilidades em HTML e CSS, com o foco em criar um sistema web eficiente para uma loja de autopeças.
 
-### [Projeto 2]](https://github.com/Gestevobr22/Projeto-JKG)
-Um projeto de estudos desenvolvido em equipe utilizando tecnologias como HTML, CSS e Javascript, com base em sites e empresas no ramo de gestão financeira.
-
 ## Contato
 - **Email**: [Gabrielestevobr22@gmail.com](mailto:gabrielestevobr22@gmail.com)
 - **Linkedin**: https://www.linkedin.com/in/gabrielestevo22/
