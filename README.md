@@ -1,4 +1,4 @@
-\x 7## Olá! Eu sou Gabriel Estevo 👋
+## Olá! Eu sou Gabriel Estevo 👋
 
 ## Sobre Mim
 Sou um desenvolvedor web apaixonado por tecnologia e estou atualmente cursando Análise e Desenvolvimento de Sistemas.
